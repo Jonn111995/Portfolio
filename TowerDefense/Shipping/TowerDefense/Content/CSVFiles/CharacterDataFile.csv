@@ -1,0 +1,6 @@
+﻿キャラの種類,HP,攻撃力,防御力,X索敵範囲,Y索敵範囲,攻撃スピード,歩くスピード,キャラのタイプID,索敵開始距離,止められる敵の数,出撃コスト,倒したときに得られるコスト,アイコンの画像
+0,20,3,1,1,1,0.5,0,0,1,1,0.5,0,/Game/CharaIconTexture/soldier_Icon.soldier_Icon
+0,15,7,1,2,2,1,0,1,2,1,2,0,/Game/CharaIconTexture/Archer_Icon.Archer_Icon
+0,50,2,1,1,1,2,0,2,1,2,1,0,/Game/CharaIconTexture/Shield_Solider_Icon.Shield_Solider_Icon
+1,35,2,1,1,1,1,2,0,1,1,0,1,
+1,25,3,1,2,2,1,2,1,2,1,0,2,
